@@ -1,4 +1,27 @@
-## Hi there 👋
+Data Analyst Apprentice with interests in:
+
+Data Analysis
+Power BI
+Python
+SQL
+R
+AI & Automation
+
+Currently Learning
+Advanced Power BI
+Data Engineering concepts
+AI and Automation workflows
+
+Featured Projects
+
+Power BI Dashboards
+Interactive dashboards built using Power Query and DAX.
+
+Python Data Analysis
+Data cleaning, transformation and visualisation using pandas and matplotlib.
+
+Automation Projects
+Python tools for extracting and processing information automatically.
 
 <!--
 **eb-data-analysis/eb-data-analysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
